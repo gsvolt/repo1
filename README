@@ -6,3 +6,6 @@ repo1
 toggleSSLinIIS.bat
  This batch script enables an administrator to serve content 
  only over SSL from the command line
+
+setDateAsEnvironmentVariable.bat
+ Sets date in YYYY-MM-DD format as an environment variable
